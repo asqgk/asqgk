@@ -7,7 +7,17 @@
 Hello there! :wave: <br>
 I'm a {backend and frontend} developer.
 
-[Courses](#) - It's are technical courses on many technologies, such as Node.js, Vue.js, React, MongoDB, JavaScript and more. <br>
+💬 Skills:
+   ▶️ Technologies: HTML, CSS, JavaScript, and SQL.
+   ▶️ Frameworks: Next JS and Bootstrap.
+   ▶️ Database: MySQL and MongoDB.
+   ▶️ Tools: Git and Yarn.
+
+💬 Learning: Node JS, Express, TypeScript.
+💬 Interest in learning: React, React.Native, Python, UX, UI.
+
 [Website](#) - https://my-portfolio-francisco.vercel.app/ <br>
+
+
 
 
