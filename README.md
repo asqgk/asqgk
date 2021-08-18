@@ -5,7 +5,7 @@
 
 ### About me
 Hello there! :wave: <br>
-I'm a {backend, frontend and mobile} developer.
+I'm a {backend and frontend} developer.
 
 [Courses](#) - It's are technical courses on many technologies, such as Node.js, Vue.js, React, MongoDB, JavaScript and more. <br>
 [Website](#) - https://my-portfolio-francisco.vercel.app/ <br>
