@@ -12,7 +12,7 @@ I'm a {backend and frontend} developer.
 
 :trophy: Skills: <br>
 &nbsp;&nbsp;- Technologies: HTML, CSS, JavaScript, and SQL.<br>
-&nbsp;&nbsp;- Frameworks: Next JS and Bootstrap.<br>
+&nbsp;&nbsp;- Frameworks: Next JS and Express JS.<br>
 &nbsp;&nbsp;- Database: MySQL and MongoDB.<br>
 &nbsp;&nbsp;- Tools: Git and Yarn.<br>
 
