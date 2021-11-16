@@ -1,7 +1,7 @@
 # Hi, I'm Francisco! 
 
 Hello there! :wave: <br>
-I'm a {backend and frontend} developer.
+My name is Francisco, I am a Full Stack Web Developer, curious by nature and always looking for new challenges.
 
 ## About me
 
