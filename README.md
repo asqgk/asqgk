@@ -12,7 +12,7 @@ I am a Full Stack Web Developer, curious by nature and always looking for new ch
 💬 Interest in learning: TypeScript, React.Native, Python, Docker.
 
 :trophy: Skills: <br>
-&nbsp;&nbsp;- Technologies: HTML, CSS, JavaScript, and SQL.<br>
+&nbsp;&nbsp;- Technologies: HTML, CSS, JavaScript, Nodejs, React and Typescript.<br>
 &nbsp;&nbsp;- Frameworks: Next JS and Express JS.<br>
 &nbsp;&nbsp;- Database: MySQL and MongoDB.<br>
 &nbsp;&nbsp;- Tools: Git and Yarn.<br>
