@@ -9,7 +9,7 @@ I am a Full Stack Web Developer, curious by nature and always looking for new ch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-nedir-dos-passos-95b6a217a/)](https://www.linkedin.com/in/francisco-nedir-dos-passos-95b6a217a/)
 
 :mag: Learning: NestJS, Docker, Redis, Kubernetes.<br>
-💬 Interest in learning: React Native, Python, GraphQL, RabbitMQ.
+💬 Interest in learning: React Native, Python, GraphQL.
 
 :trophy: Skills: <br>
 &nbsp;&nbsp;- Technologies: HTML, CSS, JavaScript, React and Typescript.<br>
